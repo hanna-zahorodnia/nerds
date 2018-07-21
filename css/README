@@ -1,0 +1,8 @@
+Folder with style files
+--
+
+Structure:
+
+css/
+| - style.css
+| - [other *.css files]

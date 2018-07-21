@@ -1,0 +1,9 @@
+Folder with scripts
+
+--
+
+Structure:
+
+js/
+| - script.js
+| - [other *.js files]
